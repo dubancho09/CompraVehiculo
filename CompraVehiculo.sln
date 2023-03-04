@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "API\API.csproj", "{702779CE-1203-43A8-9FA3-F92C7D9EAC02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infraestructure", "Infraestructore\Infraestructure.csproj", "{5ED2410E-102E-4A3E-8181-4CA1F563E762}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{9CE71159-6D25-4915-BE91-7C58ABBC1CDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{702779CE-1203-43A8-9FA3-F92C7D9EAC02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{702779CE-1203-43A8-9FA3-F92C7D9EAC02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{702779CE-1203-43A8-9FA3-F92C7D9EAC02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{702779CE-1203-43A8-9FA3-F92C7D9EAC02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ED2410E-102E-4A3E-8181-4CA1F563E762}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ED2410E-102E-4A3E-8181-4CA1F563E762}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ED2410E-102E-4A3E-8181-4CA1F563E762}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ED2410E-102E-4A3E-8181-4CA1F563E762}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CE71159-6D25-4915-BE91-7C58ABBC1CDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CE71159-6D25-4915-BE91-7C58ABBC1CDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CE71159-6D25-4915-BE91-7C58ABBC1CDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CE71159-6D25-4915-BE91-7C58ABBC1CDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4644497-C039-4A13-8E40-BED8102F9C08}
+	EndGlobalSection
+EndGlobal
